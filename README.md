@@ -81,7 +81,7 @@ proyecto-sakila-automation/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/Bootcamp-Data-Analyst/proyecto-sakila-automation-group-2.git
+git clone https://github.com/PabloRodMu/Proyecto-Automatizaci-n-ETL-Sakila-Dashboard.git
 
 ---
 
