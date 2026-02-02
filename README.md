@@ -42,7 +42,7 @@ Esta base de datos es ampliamente utilizada para aprendizaje y prácticas de SQL
 ## 🔄 Arquitectura del proyecto
 
 El proyecto está dividido en módulos que separan claramente la lógica de extracción, transformación y visualización:
-
+```
 proyecto-sakila-automation/
 │
 ├── main.py # Punto de entrada principal
@@ -63,7 +63,7 @@ proyecto-sakila-automation/
 ├── .env.example # Plantilla de variables de entorno
 ├── .gitignore
 └── README.md # Documentación del proyecto
-
+```
 
 ---
 
