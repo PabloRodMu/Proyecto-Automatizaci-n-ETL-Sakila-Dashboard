@@ -162,6 +162,11 @@ Las contribuciones son bienvenidas.
 Si deseas mejorar este proyecto, puedes abrir un *issue* o enviar un *pull request*.
 
 ---
+## 📷 Vista Previa
+
+![Proyecto-Automatizaci-n-ETL-Sakila-Dashboard](images/captura_dashboard.jpg)
+
+---
 
 ## 📜 Licencia
 
