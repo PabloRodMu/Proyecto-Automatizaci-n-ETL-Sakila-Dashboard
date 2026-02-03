@@ -65,8 +65,11 @@ proyecto-sakila-automation/
 ├── output/ # Datos de salida
 │ └── datos_sakila.csv # CSV final generado
 │
+├── images/
+│ └── captura_dashboard.jpg
+│
 ├── dashboard/ # Visualización
-│ └── sakila_dashboard.xlsx # Dashboard en Excel
+│ └── Dashboard_sakila.xlsx # Dashboard en Excel
 │
 ├── requirements.txt # Dependencias del proyecto
 ├── .env # Variables de entorno (no se sube a Git)
